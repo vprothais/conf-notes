@@ -1,0 +1,9 @@
+# Devoxx 2023
+
+## NestJs
+Framework inspiré d'Angular, proche de laravel, spring boot, ...
+TP : https://chawax.github.io/nestjs-codelab/#0
+
+Génération du swagger depuis le code
+Génération de resource (DTO, entity, service, module, controller)
+TypeOrm pour connexion directe à DB
